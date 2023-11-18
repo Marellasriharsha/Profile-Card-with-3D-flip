@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/profile-card-3d-flip.git
+git clone https://github.com/Marellasriharsha/Profile-Card-with-3D-flip
 Navigate to the project directory:
 
 bash
